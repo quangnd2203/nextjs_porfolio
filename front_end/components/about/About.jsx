@@ -28,20 +28,16 @@ const About = () => {
           >
             <div className="info">
               <h3>
-                Hi, Im <span>Rokers Nelson</span>
+                Hi, I&rsquo;m <span>Quang Nguyen</span>
               </h3>
               <p>
-                Im a Freelancer Front-end Developer with over 6 years of
-                experience. Im from San Francisco. I code and create web
-                elements for amazing people around the world. I like work with
-                new people.
+                I&rsquo;m a Mobile App Developer with 5+ years of experience, passionate about building cross-platform apps using Flutter and React Native. I enjoy creating smooth, scalable solutions and have worked on projects from mobile to backend and cloud. Always excited to collaborate with good people around the world.
               </p>
             </div>
             <div className="my_skills">
               <h3 className="title">What is my skill level?</h3>
               <p className="desc">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-                ipsum sit nibh amet egestas tellus.
+                With over 5 years of experience, I&rsquo;m confident in building cross-platform apps using Flutter and React Native. I&rsquo;m also skilled in backend, DevOps, and cloud deployment with Node.js and AWS.
               </p>
               <div className="wrapper">
                 <div className="dodo_progress">
@@ -87,7 +83,7 @@ const About = () => {
                 data-aos-delay="300"
               >
                 <div className="info">
-                  <h3>6+ Years</h3>
+                  <h3>5+ Years</h3>
                   <span>Of Experiance</span>
                 </div>
               </div>

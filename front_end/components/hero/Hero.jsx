@@ -2,15 +2,15 @@ import React from "react";
 import Social from "../Social";
 import ReactTyped from "react-typed";
 import Image from "next/image";
-import shapeImage from "../../public/img/hero/1.jpg";
-import heroImage from "../../public/img/hero/2.jpg";
+import shapeImage from "../../public/img/hero/2.jpg";
+import heroImage from "../../public/img/hero/1.jpg";
 
 const heroContent = {
   shapeImage: shapeImage,
   heroImage: heroImage,
-  name: "Rokers Nelson",
-  description: `I'm a Freelancer Front-end React Developer based In USA, over 6 years of
-  professional experience.`,
+  name: "Quang Nguyen",
+  description: `Mobile/Web Developer with 5+ years in Flutter, Node.js & Blockchain.
+Skilled in DevOps (Docker, AWS, CI/CD).`,
 };
 
 const Hero = () => {
@@ -39,9 +39,9 @@ const Hero = () => {
             <span className="typer-toper">
               <ReactTyped
                 loop
-                typeSpeed={150}
+                typeSpeed={100}
                 backSpeed={60}
-                strings={["Graphic Designer", "Web Developer"]}
+                strings={["Mobile-first Fullstack Developer", "Flutter • React Native • Cloud"]}
                 smartBackspace
                 shuffle={false}
                 backDelay={1}
@@ -76,7 +76,8 @@ const Hero = () => {
             data-aos-duration="1200"
             data-aos-delay="500"
           >
-            <a href="/img/sample.pdf" download className="color">
+            <a href="https://drive.google.com/file/d/1P-KKy9tMOAHCpXHopAp19vrh0eHT45M2/view?usp=drive_link" target="_blank"
+              rel="noopener noreferrer" className="color">
               Download CV
             </a>
           </div>

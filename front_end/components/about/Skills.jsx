@@ -2,28 +2,36 @@ import React from "react";
 
 const skillsContent = [
   {
-    name: "React.Js",
+    name: "Flutter",
     skillPercent: "95",
   },
   {
-    name: "Vue.Js",
-    skillPercent: "80",
+    name: "React Native",
+    skillPercent: "60",
   },
   {
-    name: "Photoshop",
-    skillPercent: "90",
+    name: "React / Next.js",
+    skillPercent: "60",
   },
   {
-    name: "Figma",
-    skillPercent: "95",
+    name: "Node.js & Express.js",
+    skillPercent: "75",
   },
   {
-    name: "Illustrator",
-    skillPercent: "80",
+    name: "Solidity & Smart Contract",
+    skillPercent: "70",
   },
   {
-    name: "WordPress",
-    skillPercent: "90",
+    name: "Web3 / Ether.js / Hardhat",
+    skillPercent: "70",
+  },
+  {
+    name: "AWS (EC2, S3, RDS, IAM)",
+    skillPercent: "70",
+  },
+  {
+    name: "Docker & CI/CD",
+    skillPercent: "70",
   },
 ];
 

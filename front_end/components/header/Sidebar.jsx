@@ -8,9 +8,9 @@ import logo2 from "../../public/img/logo/light.png";
 
 // sidebar footer bottom content
 const sidebarFooterContent = {
-  name: "Nelson",
-  email: "support@gmail.com",
-  emailRef: "mailto:ib-themes21@gmail.com",
+  name: "Quang Nguyen",
+  email: "quangnd.nta@gmail.com",
+  emailRef: "mailto:quangnd.nta@gmail.com",
 };
 
 const Sidebar = () => {
