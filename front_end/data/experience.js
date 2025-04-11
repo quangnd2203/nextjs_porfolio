@@ -1,23 +1,22 @@
 module.exports = [
   {
-    year: "2018 - Present",
-    position: " Web Developer",
-    compnayName: "Envato",
-    details: `Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore
-            adipisicing elit`,
+    year: "2021 - Now",
+    position: "Freelance",
+    compnayName: "Self-employed",
+    details: `Developed cross-platform mobile apps for various clients using Flutter and Firebase. Managed full project lifecycle from UI design to deployment. Communicated directly with clients, ensured on-time delivery, and provided ongoing maintenance and updates.`,
+
   },
   {
-    year: "2013 - 2018",
-    position: "UI/UX Designer",
-    compnayName: "Themeforest",
-    details: `Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol
-            elit, tempor incididunt`,
+    year: "7/2022 - 11/2024",
+    position: "Flutter Team Leader",
+    compnayName: "Nitro Tech Asia Inc",
+    details: `- Led a Flutter development team, collaborated closely with Japanese BRSEs, and consistently received high evaluations for early task completion.\n- Maintained and delivered features per client requests, and contributed to AI/AWS projects, including an internal Chatwork Translation Bot.`,
+
   },
   {
-    year: "2005 - 2013",
-    position: "Consultant",
-    compnayName: "Videohive",
-    details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
-            elit, sed do eiusmod tempor duntt`,
+    year: "2020 - 7/2022",
+    position: "Flutter Developer",
+    compnayName: "Huesoft Corp",
+    details: `- Implemented Flutter projects for both clients and internal use.`,
   },
 ];

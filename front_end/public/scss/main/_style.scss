@@ -1115,7 +1115,7 @@ body.dark .loader_line:after {
 // about popup
 .custom-modal.about-popup-wrapper {
   .box_inner {
-    width: 1070px;
+    width: 1240px;
 
     @media screen and (max-width: 1199px) {
       width: 900px;
@@ -3449,7 +3449,6 @@ a {
     height: auto;
     width: 100%;
     max-width: 100%;
-    -webkit-mask-size: auto auto;
     -webkit-mask-image: url(../../hero-shape.svg);
     mask-image: url(../../hero-shape.svg);
   }

@@ -1,23 +1,8 @@
 module.exports = [
   {
-    year: "2015",
-    degree: "ENGINEERING DEGREE",
-    institute: "OXFORD UNIVERSITY",
-    details: `  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore
-            adipisicing elit`,
-  },
-  {
-    year: "2012",
-    degree: "MASTER DEGREE",
-    institute: "KIEV UNIVERSITY",
-    details: `Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol
-            elit, tempor incididunt`,
-  },
-  {
-    year: "2009",
-    degree: "BACHELOR DEGREE ",
-    institute: "TUNIS HIGH SCHOOL",
-    details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
-            elit, sed do eiusmod tempor duntt`,
+    year: "2020",
+    degree: "ASP .NET CORE FULLSTACK DEVELOPMENT",
+    institute: "CODEGYM VIETNAM",
+    details: `Focused on building scalable web applications using ASP.NET Core, Entity Framework, and SQL Server. Trained in MVC architecture, RESTful API development, and frontend with HTML, CSS, JavaScript. Gained hands-on experience in real-world projects, team collaboration, and Agile workflow.`,
   },
 ];

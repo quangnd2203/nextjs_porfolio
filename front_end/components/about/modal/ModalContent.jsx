@@ -12,7 +12,8 @@ const ModalContent = () => {
           <h3>Personal Info</h3>
           <PersonalInfo />
           <div className="edina_tm_button">
-            <a href="/img/sample.pdf" download className="color">
+            <a href="https://drive.google.com/file/d/1P-KKy9tMOAHCpXHopAp19vrh0eHT45M2/view?usp=drive_link" target="_blank"
+              rel="noopener noreferrer" className="color">
               Download CV
             </a>
           </div>

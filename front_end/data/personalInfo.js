@@ -7,6 +7,4 @@ module.exports = [
   { meta: "Address", metaInfo: "Hue" },
   { meta: "phone", metaInfo: "+84347811798" },
   { meta: "Email", metaInfo: "quangnd.nta@mail.com" },
-  { meta: "Skype", metaInfo: " rokers.nelson" },
-  { meta: "langages", metaInfo: "English" },
 ];

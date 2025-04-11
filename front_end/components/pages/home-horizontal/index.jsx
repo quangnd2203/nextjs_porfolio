@@ -78,8 +78,10 @@ const EdinaHorizontal = () => {
           <div className="edina_tm_title">
             <h3>What I Do</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              ipsum sit nibh amet egestas tellus.
+              I build cross-platform mobile apps using Flutter.
+            </p>
+            <p>
+              From UI to backend, I deliver smooth, scalable digital products.
             </p>
           </div>
           {/* End edian_tm_title */}
