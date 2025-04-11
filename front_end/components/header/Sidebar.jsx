@@ -60,8 +60,8 @@ const Sidebar = () => {
                 "about",
                 "service",
                 "portfolio",
-                "testimonial",
-                "blog",
+                // "testimonial",
+                // "blog",
                 "contact",
               ]}
               activeNavClass="active"

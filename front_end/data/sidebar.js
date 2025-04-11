@@ -13,13 +13,13 @@ module.exports = [
     itemRoute: "#portfolio",
     activeClass: "",
   },
-  {
-    icon: "testimonial",
-    itemName: "Testimonial",
-    itemRoute: "#testimonial",
-    activeClass: "",
-  },
-  { icon: "blog", itemName: "Blog", itemRoute: "#blog", activeClass: "" },
+  // {
+  //   icon: "testimonial",
+  //   itemName: "Testimonial",
+  //   itemRoute: "#testimonial",
+  //   activeClass: "",
+  // },
+  // { icon: "blog", itemName: "Blog", itemRoute: "#blog", activeClass: "" },
   {
     icon: "contact",
     itemName: "Contact",

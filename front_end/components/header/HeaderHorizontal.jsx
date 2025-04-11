@@ -8,9 +8,9 @@ import logo2 from "../../public/img/logo/light.png";
 
 // sidebar footer bottom content
 const sidebarFooterContent = {
-  name: "Nelson",
-  email: "support@gmail.com",
-  emailRef: "mailto:ib-themes21@gmail.com",
+  name: "Quang Nguyen",
+  email: "quangnd.nta@gmail.com",
+  emailRef: "mailto:quangnd.nta@gmail.com",
 };
 
 const HeaderHorizontal = () => {
@@ -75,8 +75,8 @@ const HeaderHorizontal = () => {
                 "about",
                 "service",
                 "portfolio",
-                "testimonial",
-                "blog",
+                // "testimonial",
+                // "blog",
                 "contact",
               ]}
               activeNavClass="active"
@@ -115,7 +115,7 @@ const HeaderHorizontal = () => {
                 <div
                   className="main"
                   style={{
-                    backgroundImage: "url(img/about/avatar.jpg)",
+                    backgroundImage: "url(img/hero/1.jpg)",
                   }}
                 ></div>
               </div>
