@@ -36,15 +36,15 @@ const Sidebar = () => {
           <div className="logo">
             <Link href="/">
               <Image
-                width={92}
-                height={37}
+                width={200}
+                height={30}
                 className="logo_light"
                 src={logo}
                 alt="brand"
               />
               <Image
-                width={92}
-                height={37}
+                width={200}
+                height={30}
                 className="logo_dark"
                 src={logo2}
                 alt="brand"
