@@ -145,7 +145,7 @@ const Portfolio = () => {
                     <li>
                       <h5>Link</h5>
                       {singleData?.portfolioLink?.map((link, index) => (
-                        <span>
+                        <span key={index}>
                           <a
                             href={link}
                             target="_blank"
