@@ -26,7 +26,7 @@ const Service = () => {
         {servicesData.map((item) => (
           <li data-aos="fade-right" data-aos-duration="1200" key={item.id}>
             <Tilt>
-              <div className="list_inner" onClick={() => handleModle(item?.id)}>
+              <div className="list_inner">
                 <div className="hover">
                   <Image
                     width={50}
@@ -37,9 +37,6 @@ const Service = () => {
                   />
                   <div className="service_title">
                     <h3>{item.title}</h3>
-                  </div>
-                  <div className="learn_more">
-                    Learn More<span></span>
                   </div>
                 </div>
               </div>
