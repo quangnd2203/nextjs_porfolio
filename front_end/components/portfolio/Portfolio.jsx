@@ -61,7 +61,7 @@ const Portfolio = () => {
                     <Image
                       width={357}
                       height={357}
-                      src={item.portfolioImage}
+                      src={item.coverImage}
                       data-tip
                       data-for={item.tooltipId}
                       alt="portfolio"
@@ -138,21 +138,24 @@ const Portfolio = () => {
                     </li>
                     {/* End list */}
                     <li>
-                      <h5>Data</h5>
+                      <h5>Date</h5>
                       <span>{singleData?.date}</span>
                     </li>
                     {/* End list */}
                     <li>
                       <h5>Link</h5>
-                      <span>
-                        <a
-                          href={singleData?.portfolioLink}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          {singleData?.portfolioLink}
-                        </a>
-                      </span>
+                      {singleData?.portfolioLink?.map((link, index) => (
+                        <span>
+                          <a
+                            href={link}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            {link}
+                          </a>
+                        </span>
+                      ))}
+
                     </li>
                     {/* End list */}
                     <li className="news_share d-blok">

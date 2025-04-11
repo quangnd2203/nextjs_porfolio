@@ -41,7 +41,7 @@ const Hero = () => {
                 loop
                 typeSpeed={100}
                 backSpeed={60}
-                strings={["Mobile-first Fullstack Developer", "Flutter • React Native • Cloud"]}
+                strings={["Mobile Fullstack Developer", "Flutter • React Native • Cloud"]}
                 smartBackspace
                 shuffle={false}
                 backDelay={1}
