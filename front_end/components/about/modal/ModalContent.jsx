@@ -12,7 +12,7 @@ const ModalContent = () => {
           <h3>Personal Info</h3>
           <PersonalInfo />
           <div className="edina_tm_button">
-            <a href="https://drive.google.com/file/d/1P-KKy9tMOAHCpXHopAp19vrh0eHT45M2/view?usp=drive_link" target="_blank"
+            <a href="https://drive.google.com/file/d/1nqE4ZK84splNHy2v0d9cygFUs2UiYu_R/view?usp=sharing" target="_blank"
               rel="noopener noreferrer" className="color">
               Download CV
             </a>

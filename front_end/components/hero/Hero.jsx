@@ -76,7 +76,7 @@ const Hero = () => {
             data-aos-duration="1200"
             data-aos-delay="500"
           >
-            <a href="https://drive.google.com/file/d/1P-KKy9tMOAHCpXHopAp19vrh0eHT45M2/view?usp=drive_link" target="_blank"
+            <a href="https://drive.google.com/file/d/1nqE4ZK84splNHy2v0d9cygFUs2UiYu_R/view?usp=sharing" target="_blank"
               rel="noopener noreferrer" className="color">
               Download CV
             </a>
